@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1076234364771",
+    "project_id": "fir-push-notification-ap-f72f9",
+    "storage_bucket": "fir-push-notification-ap-f72f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076234364771:android:d7f1cc5f55ef9858b81556",
+        "android_client_info": {
+          "package_name": "com.example.flutter_push_notification_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnw7zXf1Xz6LQI2ZQPTmZf1plNnYiW6Z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
